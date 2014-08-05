@@ -37,7 +37,6 @@ TARGET_LIBINIT_DEFINES_FILE := device/motorola/falcon/init/init_falcon.c
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(LOCAL_PATH)/bluetooth
 
 # TWRP
-RECOVERY_VARIANT := twrp
 DEVICE_RESOLUTION := 720x1280
 
 # Userdata 8GB
